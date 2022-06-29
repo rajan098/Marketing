@@ -1,4 +1,4 @@
-# Bankist web app
+# Marketing web app
 ## It is a simple marketing website
 
 ## Tech i Used
