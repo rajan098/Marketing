@@ -18,7 +18,7 @@
  Run this site on youre local browser
 
  ```bash
- https://marketing-project111.netlify.app
+ https://magnificent-blancmange-954fc7.netlify.app/
 ```
 Clone the project
 
